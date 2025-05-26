@@ -1,0 +1,5 @@
+{
+  "name": "Bangla Shorts Script Generator",
+  "description": "A web application that generates engaging short video scripts in Bengali based on a user-provided topic, using the Gemini API.",
+  "requestFramePermissions": []
+}
